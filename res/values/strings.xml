@@ -11,6 +11,6 @@
     <string name="tv_pwd">PassWord:</string>
     <string name="et_hint_name">Name</string>
     <string name="et_hint_pwd">PassWord</string>
-    <string name="btn_login_str">PassWord</string>
 
+	 <string name="btn_login_str">Button</string>
 </resources>
