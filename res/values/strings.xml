@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- main activity string -->
+    <string name="app_name">MyAndroidTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_listview">ListView</string>
+    <string name="action_gridview">GridView</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_pwd">PassWord:</string>
+    <string name="et_hint_name">Name</string>
+    <string name="et_hint_pwd">PassWord</string>
+    <string name="btn_login_str">PassWord</string>
+
+</resources>
